@@ -1,0 +1,9 @@
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\bin\Debug\RSI test.exe.config
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\bin\Debug\RSI test.exe
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\bin\Debug\RSI test.pdb
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\obj\Debug\RSI_test.Properties.Resources.resources
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\obj\Debug\RSI test.csproj.GenerateResource.Cache
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\obj\Debug\RSI test.exe
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\obj\Debug\RSI test.pdb
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\obj\Debug\RSI test.csprojResolveAssemblyReference.cache
+c:\users\zheng wang\documents\visual studio 2012\Projects\RSI test\RSI test\obj\Debug\RSI_test.RSIServerForm.resources
